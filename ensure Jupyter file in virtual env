@@ -1,0 +1,4 @@
+# How to see if file (Workbook) I created on jupyter notebook is inside my virtual env (called "my_env")
+  import sys
+  print(sys.executable)
+#If /Users/my_username/myenv/bin/python3.12 is the answer, then it's ok
