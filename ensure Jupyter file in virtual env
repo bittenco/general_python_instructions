@@ -1,3 +1,4 @@
+#When I created the file, I actually created a new Kernel, when I clicked New > "Python 3 (ipykernel"
 # How to see if file (Workbook) I created on jupyter notebook is inside my virtual env (called "my_env")
   import sys
   print(sys.executable)
